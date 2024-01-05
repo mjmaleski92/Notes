@@ -1,0 +1,2 @@
+Automated fish feeder for frozen/cold fish feed reconstitution/delivery
+Previous ideas with Troy were to use some type of [[Peltier]] and [[Peristaltic Pump]] to keep feed stock chilled and then grab tank water and reconstitute it somehow.

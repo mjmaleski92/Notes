@@ -1,0 +1,1 @@
+Like a chest rig for smaller hand tools so that you don't loose them. This would be a bit challenging to make comfortable I would think as it would also attract every metal shaving known to man, but perhaps with a easy clean surface layer it wouldn't be so bad?

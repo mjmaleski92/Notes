@@ -1,0 +1,3 @@
+When talking about blender in the context of [[Topographic Maps]], it typically requires that we take a height map (which is just [[DEM]] data in a picture form) and use that as a displacement function on a mesh surface.
+
+The higher the subdivisions of the surface, the more detail that comes through. I have found this to be somewhat tricky on a number of occasions due to having irregularities of the picture aspect ratio not always aligning well to the surface aspect ratio. Also, sometimes making a "solid" or watertight model in Blender with this method has proven a bit challenging.

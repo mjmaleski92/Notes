@@ -1,0 +1,2 @@
+Something like a sensor that attaches to the build plate and detects when it is in a certain position and will open the door --> swap out the build plate/clear it and replace it so it is ready to go for next build
+#automation #3dprinting #programming #wiring 
